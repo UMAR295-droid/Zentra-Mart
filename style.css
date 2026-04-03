@@ -1,0 +1,43 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: black;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px;
+    background: lightgray;
+}
+
+.products {
+    padding: 20px;
+}
+
+.card {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.posts {
+    padding: 20px;
+}
+
+.post {
+    border-bottom: 1px solid gray;
+    margin-bottom: 10px;
+}
